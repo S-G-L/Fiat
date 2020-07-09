@@ -1,0 +1,26 @@
+section, footer{
+    padding: 1%;
+
+}
+
+.paco{
+    color: rgb(255, 255, 255);
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+
+.list-item{
+    display: inline-block;
+}
+
+.carta{
+    background-color: rgb(75, 68, 68);
+    padding: 0%;
+}
+    .carta:hover{
+        background-color: #ce2020;
+    }
